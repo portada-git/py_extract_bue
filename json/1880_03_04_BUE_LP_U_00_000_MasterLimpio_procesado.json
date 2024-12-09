@@ -1,0 +1,154 @@
+[
+  {
+    "name_txt": "1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt",
+    "fecha_nota": "1880_03_04",
+    "metadata_entrada": "MARITIMA-ULTRAMAR DIA 3-",
+    "dia": "3",
+    "fecha_entrada": "1880_03_03",
+    "entrada": "Fecha de arribo: 3 de marzo de 1880 | Uruguay vapor oriental Rio de la Plata, 200 tons cap Silveira á ED Risso con; 49 pasageros y de transito para Montevideo, 112 bts mercancias.",
+    "data": {
+      "travel_departure_date": null,
+      "travel_arrival_date": "1880-03-03",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Uruguay",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "vapor",
+      "ship_name": "Rio de la Plata",
+      "ship_tons_capacity": 200,
+      "ship_tons_units": "tons",
+      "ship_flag": "oriental",
+      "master_role": "cap",
+      "master_name": "Silveira",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "ED Risso",
+          "cargo": [
+            {
+              "cargo_quantity": 49,
+              "cargo_unit": null,
+              "cargo_commodity": "pasageros"
+            },
+            {
+              "cargo_quantity": 112,
+              "cargo_unit": "bts",
+              "cargo_commodity": "mercancias"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt",
+    "fecha_nota": "1880_03_04",
+    "metadata_entrada": "MARITIMA-ULTRAMAR DIA 3-",
+    "dia": "3",
+    "fecha_entrada": "1880_03_03",
+    "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 29 de Diciembre bergantin español Jóven Ana 314 tons cap S Curell & E Ochoa G con: al mismo 540 pipas, 60112 12014 vino tinto, 4014 vino blanco.",
+    "data": {
+      "travel_departure_date": "1879-12-29",
+      "travel_arrival_date": "1880-03-03",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Barcelona",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "bergantin",
+      "ship_name": "Jóven Ana",
+      "ship_tons_capacity": 314,
+      "ship_tons_units": "tons",
+      "ship_flag": "español",
+      "master_role": "cap",
+      "master_name": "S Curell & E Ochoa",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "G",
+          "cargo": [
+            {
+              "cargo_quantity": 540,
+              "cargo_unit": "pipas",
+              "cargo_commodity": "vino tinto"
+            },
+            {
+              "cargo_quantity": 60112,
+              "cargo_unit": null,
+              "cargo_commodity": "vino tinto"
+            },
+            {
+              "cargo_quantity": 4014,
+              "cargo_unit": null,
+              "cargo_commodity": "vino blanco"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt",
+    "fecha_nota": "1880_03_04",
+    "metadata_entrada": "MARITIMA-ULTRAMAR DIA 3-",
+    "dia": "3",
+    "fecha_entrada": "1880_03_03",
+    "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 7 de Enero polaca española Merceditas, 124 tons cap P Duran á la órden con: 213 pipas, 2512 9814 vino tinto.",
+    "data": {
+      "travel_departure_date": "1880-01-07",
+      "travel_arrival_date": "1880-03-03",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Barcelona",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "polaca",
+      "ship_name": "Merceditas",
+      "ship_tons_capacity": 124,
+      "ship_tons_units": "tons",
+      "ship_flag": "española",
+      "master_role": "cap",
+      "master_name": "P Duran",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "la órden",
+          "cargo": [
+            {
+              "cargo_quantity": 213,
+              "cargo_unit": "pipas",
+              "cargo_commodity": "vino tinto"
+            },
+            {
+              "cargo_quantity": 2512,
+              "cargo_unit": null,
+              "cargo_commodity": "vino tinto"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  }
+]
