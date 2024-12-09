@@ -1,12 +1,11 @@
 import os
 import json
-from babel.dates import format_date
-from utils import procesar_archivo
+from config_lp_0 import procesar_archivo
 
-nombre_archivo = './txt/1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt'
+nombre_archivo = './txt/lp/1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt'
 directorio_salida = './json'
 
-if __name__ == "__main__":
+def main():
     ruta_absoluta = os.path.abspath(nombre_archivo)
     nombre_base = os.path.basename(ruta_absoluta)
 
@@ -27,4 +26,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error al procesar el archivo: {str(e)}")
 
-print(json.dumps(resultados[:5], ensure_ascii=False, indent=2))
+if __name__ == "__main__":
+    main()

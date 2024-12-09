@@ -22,17 +22,12 @@
       "ship_flag": "oriental",
       "master_role": "cap",
       "master_name": "Silveira",
-      "ship_agent_name": null,
+      "ship_agent_name": "ED Risso",
       "crew_number": null,
       "cargo_list": [
         {
           "cargo_merchant_name": "ED Risso",
           "cargo": [
-            {
-              "cargo_quantity": 49,
-              "cargo_unit": null,
-              "cargo_commodity": "pasageros"
-            },
             {
               "cargo_quantity": 112,
               "cargo_unit": "bts",
@@ -41,7 +36,7 @@
           ]
         }
       ],
-      "passengers": null,
+      "passengers": 49,
       "in_ballast": null,
       "quarantine": null,
       "forced_arrival": null,
@@ -69,13 +64,13 @@
       "ship_tons_capacity": 314,
       "ship_tons_units": "tons",
       "ship_flag": "español",
-      "master_role": "cap",
+      "master_role": null,
       "master_name": "S Curell & E Ochoa",
       "ship_agent_name": null,
       "crew_number": null,
       "cargo_list": [
         {
-          "cargo_merchant_name": "G",
+          "cargo_merchant_name": "al mismo",
           "cargo": [
             {
               "cargo_quantity": 540,
@@ -129,7 +124,7 @@
       "crew_number": null,
       "cargo_list": [
         {
-          "cargo_merchant_name": "la órden",
+          "cargo_merchant_name": "á la órden",
           "cargo": [
             {
               "cargo_quantity": 213,
