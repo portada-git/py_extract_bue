@@ -22,14 +22,17 @@
       "ship_flag": "oriental",
       "master_role": "cap",
       "master_name": "Silveira",
-      "ship_agent_name": "ED Risso",
+      "ship_agent_name": null,
       "crew_number": null,
+      "cargo_broker_name": "ED Risso",
       "cargo_list": [
         {
           "cargo_merchant_name": "ED Risso",
           "cargo": [
             {
-              "cargo_quantity": 112,
+              "cargo_quantity": [
+                112
+              ],
               "cargo_unit": "bts",
               "cargo_commodity": "mercancias"
             }
@@ -49,7 +52,7 @@
     "metadata_entrada": "MARITIMA-ULTRAMAR DIA 3-",
     "dia": "3",
     "fecha_entrada": "1880_03_03",
-    "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 29 de Diciembre bergantin español Jóven Ana 314 tons cap S Curell & E Ochoa G con: al mismo 540 pipas, 60112 12014 vino tinto, 4014 vino blanco.",
+    "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 29 de Diciembre bergantin español Jóven Ana 314 tons cap S Curell á E Ochoa G con: al mismo 540 pipas, 60112 12014 vino tinto, 4014 vino blanco.",
     "data": {
       "travel_departure_date": "1879-12-29",
       "travel_arrival_date": "1880-03-03",
@@ -64,26 +67,34 @@
       "ship_tons_capacity": 314,
       "ship_tons_units": "tons",
       "ship_flag": "español",
-      "master_role": null,
-      "master_name": "S Curell & E Ochoa",
+      "master_role": "cap",
+      "master_name": "S Curell",
       "ship_agent_name": null,
       "crew_number": null,
+      "cargo_broker_name": "E Ochoa G",
       "cargo_list": [
         {
           "cargo_merchant_name": "al mismo",
           "cargo": [
             {
-              "cargo_quantity": 540,
+              "cargo_quantity": [
+                540
+              ],
               "cargo_unit": "pipas",
-              "cargo_commodity": "vino tinto"
+              "cargo_commodity": null
             },
             {
-              "cargo_quantity": 60112,
+              "cargo_quantity": [
+                60112,
+                12014
+              ],
               "cargo_unit": null,
               "cargo_commodity": "vino tinto"
             },
             {
-              "cargo_quantity": 4014,
+              "cargo_quantity": [
+                4014
+              ],
               "cargo_unit": null,
               "cargo_commodity": "vino blanco"
             }
@@ -122,17 +133,23 @@
       "master_name": "P Duran",
       "ship_agent_name": null,
       "crew_number": null,
+      "cargo_broker_name": "la órden",
       "cargo_list": [
         {
-          "cargo_merchant_name": "á la órden",
+          "cargo_merchant_name": "la órden",
           "cargo": [
             {
-              "cargo_quantity": 213,
+              "cargo_quantity": [
+                213
+              ],
               "cargo_unit": "pipas",
               "cargo_commodity": "vino tinto"
             },
             {
-              "cargo_quantity": 2512,
+              "cargo_quantity": [
+                2512,
+                9814
+              ],
               "cargo_unit": null,
               "cargo_commodity": "vino tinto"
             }
