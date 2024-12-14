@@ -1,0 +1,1533 @@
+[
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Londres Amberes Rio Janeiro y Montevido vapor inglés Horrox 1101 tons cap Eddes á E, Norton con: á Bemberg C. 5 fds bsas 1 bto mtras; J Fulton 15 cj 5 casc provisiones; Parry 115 cj merc. J. Etchegaray 10 fds medias; Tramway Ciudad de Buenos Aires 25 casc herraduras; H. Peltzer 10 cj drogas; Puerto Ensenada 24 btos acero; Ferro C, del Sud 6 cj cristaleria; Moore C. 12 cj perfumeria, Hape hnos 6 fds bolsas; Orden 230 cj hojalata 331 bto merc 51 cj id 9 id papel.",
+    "id_entrada": 1,
+    "data": {
+      "travel_departure_date": null,
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Londres",
+      "travel_port_of_call_list": [
+        {
+          "port_of_call_place": "Amberes",
+          "port_of_call_arrival_date": null,
+          "port_of_call_departure_date": null
+        },
+        {
+          "port_of_call_place": "Rio Janeiro",
+          "port_of_call_arrival_date": null,
+          "port_of_call_departure_date": null
+        },
+        {
+          "port_of_call_place": "Montevideo",
+          "port_of_call_arrival_date": null,
+          "port_of_call_departure_date": null
+        }
+      ],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "vapor",
+      "ship_name": "Horrox",
+      "ship_tons_capacity": 1101,
+      "ship_tons_units": "tons",
+      "ship_flag": "inglés",
+      "master_role": "cap",
+      "master_name": "Eddes",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "E. Norton",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "Bemberg C.",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                5
+              ],
+              "cargo_unit": "fds",
+              "cargo_commodity": "bsas"
+            },
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "bto",
+              "cargo_commodity": "mtras"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "J Fulton",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                15,
+                5
+              ],
+              "cargo_unit": "cj; casc",
+              "cargo_commodity": "provisiones"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Parry",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                115
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "merc."
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "J. Etchegaray",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                10
+              ],
+              "cargo_unit": "fds",
+              "cargo_commodity": "medias"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Tramway Ciudad de Buenos Aires",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                25
+              ],
+              "cargo_unit": "casc",
+              "cargo_commodity": "herraduras"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "H. Peltzer",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                10
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "drogas"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Puerto Ensenada",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                24
+              ],
+              "cargo_unit": "btos",
+              "cargo_commodity": "acero"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Ferro C. del Sud",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                6
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "cristaleria"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Moore C.",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                12
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "perfumeria"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Hape hnos",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                6
+              ],
+              "cargo_unit": "fds",
+              "cargo_commodity": "bolsas"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Orden",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                230
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "hojalata"
+            },
+            {
+              "cargo_quantity": [
+                331
+              ],
+              "cargo_unit": "bto",
+              "cargo_commodity": "merc"
+            },
+            {
+              "cargo_quantity": [
+                51
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "id"
+            },
+            {
+              "cargo_quantity": [
+                9
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "papel"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Amberes à M. del Pont 51 cj velas; W. Paats 200 cj quesos; F F. 200 cj ginebra; F. Meyer 2 casc vino; H. Koch 58 cj manufacturas; Bemberg C. 36 fds papel; C. Riva 20 btos quesos; J, Lopez 1 cj armas; Verney C, 23 id id, A, Bunge 1 id vino; L, Logegaray 26 id 6 barriles ferreteria; Mallman C. 8 fds lana 1 bto mtras: F. Chás é hijos 61 id cristaleria C. F. Bally 30 id calzado; J. Cadmus 2 cj con: 100,000 francos 15 btos papel 917 rieles 679 btos fierro.",
+    "id_entrada": 2,
+    "data": {
+      "travel_departure_date": null,
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Amberes",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": null,
+      "ship_name": null,
+      "ship_tons_capacity": null,
+      "ship_tons_units": null,
+      "ship_flag": null,
+      "master_role": null,
+      "master_name": null,
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": null,
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "M. del Pont",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                51
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "velas"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "W. Paats",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                200
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "quesos"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "F F.",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                200
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "ginebra"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "F. Meyer",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                2
+              ],
+              "cargo_unit": "casc",
+              "cargo_commodity": "vino"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "H. Koch",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                58
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "manufacturas"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Bemberg C.",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                36
+              ],
+              "cargo_unit": "fds",
+              "cargo_commodity": "papel"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "C. Riva",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                20
+              ],
+              "cargo_unit": "btos",
+              "cargo_commodity": "quesos"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "J. Lopez",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "armas"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Verney C.",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                23
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "A. Bunge",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "vino"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "L. Logegaray",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                26
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "id"
+            },
+            {
+              "cargo_quantity": [
+                6
+              ],
+              "cargo_unit": "barriles",
+              "cargo_commodity": "ferreteria"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Mallman C.",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                8
+              ],
+              "cargo_unit": "fds",
+              "cargo_commodity": "lana"
+            },
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "bto",
+              "cargo_commodity": "mtras"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "F. Chás é hijos",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                61
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "cristaleria"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "C. F. Bally",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                30
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "calzado"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "J. Cadmus",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                100000
+              ],
+              "cargo_unit": null,
+              "cargo_commodity": "francos"
+            },
+            {
+              "cargo_quantity": [
+                15
+              ],
+              "cargo_unit": "btos",
+              "cargo_commodity": "papel"
+            },
+            {
+              "cargo_quantity": [
+                917
+              ],
+              "cargo_unit": null,
+              "cargo_commodity": "rieles"
+            },
+            {
+              "cargo_quantity": [
+                679
+              ],
+              "cargo_unit": "btos",
+              "cargo_commodity": "fierro"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Barcelona el 30 de Octubre bergantin español Almirante 170 tons cap J. Senna á R. Rigal con: 290 pipas 4412 2412 vino tinto (Gaset) 5014 vino málaga (Marcó) 484 vino málaga 25 cj aguardiente 150 latas pimenton (Deu).",
+    "id_entrada": 3,
+    "data": {
+      "travel_departure_date": "1879-10-30",
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Barcelona",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "bergantin",
+      "ship_name": "Almirante",
+      "ship_tons_capacity": 170,
+      "ship_tons_units": "tons",
+      "ship_flag": "español",
+      "master_role": "cap",
+      "master_name": "J. Senna",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "R. Rigal",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "R. Rigal",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                290
+              ],
+              "cargo_unit": "pipas",
+              "cargo_commodity": "vino tinto"
+            },
+            {
+              "cargo_quantity": [
+                4412,
+                2412
+              ],
+              "cargo_unit": null,
+              "cargo_commodity": "vino tinto"
+            },
+            {
+              "cargo_quantity": [
+                5014
+              ],
+              "cargo_unit": null,
+              "cargo_commodity": "vino málaga"
+            },
+            {
+              "cargo_quantity": [
+                484
+              ],
+              "cargo_unit": null,
+              "cargo_commodity": "vino málaga"
+            },
+            {
+              "cargo_quantity": [
+                25
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "aguardiente"
+            },
+            {
+              "cargo_quantity": [
+                150
+              ],
+              "cargo_unit": "latas",
+              "cargo_commodity": "pimenton"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Liverpool el 26 de Octubre barca italiana Emmanuele P. 363 tons cap J. Marchese á la compañia Gas con: 586 tons carbon.",
+    "id_entrada": 4,
+    "data": {
+      "travel_departure_date": "1879-10-26",
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Liverpool",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "barca",
+      "ship_name": "Emmanuele P.",
+      "ship_tons_capacity": 363,
+      "ship_tons_units": "tons",
+      "ship_flag": "italiana",
+      "master_role": "cap",
+      "master_name": "J. Marchese",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "la compañia Gas",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "la compañia Gas",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                586
+              ],
+              "cargo_unit": "tons",
+              "cargo_commodity": "carbon"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Paranaguá el 18 de Diciembre berg gol brasilero Josephina 204 tons cap Almeida á A F Ramos con: 1437 tercios 305 bcas con 155,373 kil yerba.",
+    "id_entrada": 5,
+    "data": {
+      "travel_departure_date": "1879-12-18",
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Paranaguá",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "berg gol",
+      "ship_name": "Josephina",
+      "ship_tons_capacity": 204,
+      "ship_tons_units": "tons",
+      "ship_flag": "brasilero",
+      "master_role": "cap",
+      "master_name": "Almeida",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "A F Ramos",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "A F Ramos",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1437
+              ],
+              "cargo_unit": "tercios",
+              "cargo_commodity": "yerba"
+            },
+            {
+              "cargo_quantity": [
+                305
+              ],
+              "cargo_unit": "bcas",
+              "cargo_commodity": "yerba"
+            },
+            {
+              "cargo_quantity": [
+                155373
+              ],
+              "cargo_unit": "kil",
+              "cargo_commodity": "yerba"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Pernambuco el 23 de Dbre berg gta portugues Gomez de Castro 147 tons cap Goncalvez à J Cibils con: 40 pip caña,50 bcas azúcar moscavada 975 bcas 75114 azúcar blanca.",
+    "id_entrada": 6,
+    "data": {
+      "travel_departure_date": "1879-12-23",
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Pernambuco",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "berg gta",
+      "ship_name": "Gomez de Castro",
+      "ship_tons_capacity": 147,
+      "ship_tons_units": "tons",
+      "ship_flag": "portugues",
+      "master_role": "cap",
+      "master_name": "Goncalvez",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "J Cibils",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "J Cibils",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                40
+              ],
+              "cargo_unit": "pip",
+              "cargo_commodity": "caña"
+            },
+            {
+              "cargo_quantity": [
+                50
+              ],
+              "cargo_unit": "bcas",
+              "cargo_commodity": "azúcar moscavada"
+            },
+            {
+              "cargo_quantity": [
+                975
+              ],
+              "cargo_unit": "bcas",
+              "cargo_commodity": "azúcar blanca"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": false,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": "75114"
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Antonina el 13 de Dbre zumaca oriental Celia 96 tons cap S Rey á Barroso C con; á M Miró 268 tercios con 21474 kil yerba; A Lopez 66 tercios con: 5935 kil yerba; Artagaveytia Hons 25 tercios con: 2360 kil yerba; Barroso C 304 surrones 250 cestos con: 34976 kil yerba.",
+    "id_entrada": 7,
+    "data": {
+      "travel_departure_date": "1879-12-13",
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Antonina",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "zumaca",
+      "ship_name": "Celia",
+      "ship_tons_capacity": 96,
+      "ship_tons_units": "tons",
+      "ship_flag": "oriental",
+      "master_role": "cap",
+      "master_name": "S Rey",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "Barroso C",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "M Miró",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                268
+              ],
+              "cargo_unit": "tercios",
+              "cargo_commodity": "yerba"
+            },
+            {
+              "cargo_quantity": [
+                21474
+              ],
+              "cargo_unit": "kil",
+              "cargo_commodity": "yerba"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "A Lopez",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                66
+              ],
+              "cargo_unit": "tercios",
+              "cargo_commodity": "yerba"
+            },
+            {
+              "cargo_quantity": [
+                5935
+              ],
+              "cargo_unit": "kil",
+              "cargo_commodity": "yerba"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Artagaveytia Hons",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                25
+              ],
+              "cargo_unit": "tercios",
+              "cargo_commodity": "yerba"
+            },
+            {
+              "cargo_quantity": [
+                2360
+              ],
+              "cargo_unit": "kil",
+              "cargo_commodity": "yerba"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Barroso C",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                304
+              ],
+              "cargo_unit": "surrones",
+              "cargo_commodity": "yerba"
+            },
+            {
+              "cargo_quantity": [
+                250
+              ],
+              "cargo_unit": "cestos",
+              "cargo_commodity": "yerba"
+            },
+            {
+              "cargo_quantity": [
+                34976
+              ],
+              "cargo_unit": "kil",
+              "cargo_commodity": "yerba"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Bruswick el 31 de Octubre barca americanana J. R. Carl. ton 519 tons cap Bulter á C S Bowers con: 16385 piezas con: 368615 pies pino.",
+    "id_entrada": 8,
+    "data": {
+      "travel_departure_date": "1879-10-31",
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Bruswick",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "barca",
+      "ship_name": "J. R. Carl",
+      "ship_tons_capacity": 519,
+      "ship_tons_units": "tons",
+      "ship_flag": "americanana",
+      "master_role": "cap",
+      "master_name": "Bulter",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "C S Bowers",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "C S Bowers",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                16385
+              ],
+              "cargo_unit": null,
+              "cargo_commodity": "piezas"
+            },
+            {
+              "cargo_quantity": [
+                368615
+              ],
+              "cargo_unit": "pies",
+              "cargo_commodity": "pino"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Montevideo vap ingles Saturno 200 tons cap Magnasco á P Risso con: á JA Uribe 4 cj mercs; J Vives 3 cj id, L Fels 1 cj fósforos; G Bueno 1 fd encod; Artagaveytia 1 cj id; E Norton 1 bolsa; id Drabble 1 cj id; A Lopez 1 paq 1924 ps. m/c.; Hardy 1 cj encod; L Posada 1 paq id; Lelser 4 barriles vacios.",
+    "id_entrada": 9,
+    "data": {
+      "travel_departure_date": null,
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Montevideo",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "vap",
+      "ship_name": "Saturno",
+      "ship_tons_capacity": 200,
+      "ship_tons_units": "tons",
+      "ship_flag": "ingles",
+      "master_role": "cap",
+      "master_name": "Magnasco",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "P Risso",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "JA Uribe",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                4
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "mercs"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "J Vives",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                3
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "L Fels",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "fósforos"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "G Bueno",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "fd",
+              "cargo_commodity": "encod"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Artagaveytia",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "E Norton",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "bolsa",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Drabble",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "A Lopez",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "paq",
+              "cargo_commodity": "1924 ps. m/c."
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Hardy",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "encod"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "L Posada",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "paq",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Lelser",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                4
+              ],
+              "cargo_unit": "barriles",
+              "cargo_commodity": "vacios"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Glasgow vap ingles Viking 1687 tons cap Popaper á Woodgate Hnos con á J Shaw 2 cj ferreteria; F Chas 53 canastos cristaleria; Gilmour C 4 fds mercs; Snell caueres; 5 fardos tejidos; A Hohmann 19 fen drogas; Blagden H 4 fardos idem; Moore C 100 cajones harina Barclay Campbell 90 cajones 11 fardos tejidos H 200 barriles resina; Shaw hnos 15 tons fierro; J. C. Thompson 75 cjs tejidos; B. Stokes 9 id; órden 1 id, 30 cascos mercs, 104520 btos fierro, 70 cjs mercs.",
+    "id_entrada": 10,
+    "data": {
+      "travel_departure_date": null,
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Glasgow",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "vap",
+      "ship_name": "Viking",
+      "ship_tons_capacity": 1687,
+      "ship_tons_units": "tons",
+      "ship_flag": "ingles",
+      "master_role": "cap",
+      "master_name": "Popaper",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "Woodgate Hnos",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "J Shaw",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                2
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "ferreteria"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "F Chas",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                53
+              ],
+              "cargo_unit": "canastos",
+              "cargo_commodity": "cristaleria"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Gilmour C",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                4
+              ],
+              "cargo_unit": "fds",
+              "cargo_commodity": "mercs"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Snell",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                0
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "caueres"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "A Hohmann",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                19
+              ],
+              "cargo_unit": "fen",
+              "cargo_commodity": "drogas"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Blagden H",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                4
+              ],
+              "cargo_unit": "fardos",
+              "cargo_commodity": "idem"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Moore C",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                100
+              ],
+              "cargo_unit": "cajones",
+              "cargo_commodity": "harina"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Barclay Campbell",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                90
+              ],
+              "cargo_unit": "cajones",
+              "cargo_commodity": null
+            },
+            {
+              "cargo_quantity": [
+                11
+              ],
+              "cargo_unit": "fardos",
+              "cargo_commodity": "tejidos"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "H",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                200
+              ],
+              "cargo_unit": "barriles",
+              "cargo_commodity": "resina"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Shaw hnos",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                15
+              ],
+              "cargo_unit": "tons",
+              "cargo_commodity": "fierro"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "J. C. Thompson",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                75
+              ],
+              "cargo_unit": "cjs",
+              "cargo_commodity": "tejidos"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "B. Stokes",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                9
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "órden",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "id"
+            },
+            {
+              "cargo_quantity": [
+                30
+              ],
+              "cargo_unit": "cascos",
+              "cargo_commodity": "mercs"
+            },
+            {
+              "cargo_quantity": [
+                104520
+              ],
+              "cargo_unit": "btos",
+              "cargo_commodity": "fierro"
+            },
+            {
+              "cargo_quantity": [
+                70
+              ],
+              "cargo_unit": "cjs",
+              "cargo_commodity": "mercs"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  },
+  {
+    "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
+    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "publication_date": "1880_01_06",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "E",
+    "dia": "5",
+    "fecha_entrada": "1880_01_05",
+    "entrada": "Fecha de arribo: 5 de enero de 1880 | Uruguay, vapor inglés Saturno, 200 tons cap Magnasco á P. Risso con: a C. Clark 1 paq 500 fts; G. J. Dodis 1 cj encoms; T. Grospe 2 id id; Bercetcke 2 btos id; S. J. Mendia 2 id id; J, Buthler 50 barriles vacios; Bieckert 4 id id; E. Casey 1 paq 602 pfs 07; B. Arijon 1 cj ercoms; T. Ambrosetti 1 paq id; Molino de San Francisco 2 btos bolsas; P. Curutché 1 paq 300 pfs; P. Risso 1 id 70 pfs; L. Gattuno 1 id 102 pfs 48; Pedro Althaparro 1 id 213 pfs 30.",
+    "id_entrada": 11,
+    "data": {
+      "travel_departure_date": null,
+      "travel_arrival_date": "1880-01-05",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Uruguay",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "vapor",
+      "ship_name": "Saturno",
+      "ship_tons_capacity": 200,
+      "ship_tons_units": "tons",
+      "ship_flag": "inglés",
+      "master_role": "cap",
+      "master_name": "Magnasco",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "broker_name": "P. Risso",
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "C. Clark",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "paq",
+              "cargo_commodity": "500 fts"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "G. J. Dodis",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "encoms"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "T. Grospe",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                2
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Bercetcke",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                2
+              ],
+              "cargo_unit": "btos",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "S. J. Mendia",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                2
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "J. Buthler",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                50
+              ],
+              "cargo_unit": "barriles",
+              "cargo_commodity": "vacíos"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Bieckert",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                4
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "E. Casey",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "paq",
+              "cargo_commodity": "602 pfs 07"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "B. Arijon",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "cj",
+              "cargo_commodity": "ercoms"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "T. Ambrosetti",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "paq",
+              "cargo_commodity": "id"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Molino de San Francisco",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                2
+              ],
+              "cargo_unit": "btos",
+              "cargo_commodity": "bolsas"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "P. Curutché",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "paq",
+              "cargo_commodity": "300 pfs"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "P. Risso",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "70 pfs"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "L. Gattuno",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "102 pfs 48"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": "Pedro Althaparro",
+          "cargo": [
+            {
+              "cargo_quantity": [
+                1
+              ],
+              "cargo_unit": "id",
+              "cargo_commodity": "213 pfs 30"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": null,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": null
+    }
+  }
+]
