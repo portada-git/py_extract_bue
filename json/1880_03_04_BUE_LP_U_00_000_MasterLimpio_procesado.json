@@ -1,8 +1,11 @@
 [
   {
     "name_txt": "1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt",
-    "fecha_nota": "1880_03_04",
     "metadata_entrada": "MARITIMA-ULTRAMAR DIA 3-",
+    "publication_date": "1880_03_04",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "T",
     "dia": "3",
     "fecha_entrada": "1880_03_03",
     "entrada": "Fecha de arribo: 3 de marzo de 1880 | Uruguay vapor oriental Rio de la Plata, 200 tons cap Silveira á ED Risso con; 49 pasageros y de transito para Montevideo, 112 bts mercancias.",
@@ -48,8 +51,11 @@
   },
   {
     "name_txt": "1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt",
-    "fecha_nota": "1880_03_04",
     "metadata_entrada": "MARITIMA-ULTRAMAR DIA 3-",
+    "publication_date": "1880_03_04",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "T",
     "dia": "3",
     "fecha_entrada": "1880_03_03",
     "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 29 de Diciembre bergantin español Jóven Ana 314 tons cap S Curell á E Ochoa G con: al mismo 540 pipas, 60112 12014 vino tinto, 4014 vino blanco.",
@@ -110,8 +116,11 @@
   },
   {
     "name_txt": "1880_03_04_BUE_LP_U_00_000_MasterLimpio.txt",
-    "fecha_nota": "1880_03_04",
     "metadata_entrada": "MARITIMA-ULTRAMAR DIA 3-",
+    "publication_date": "1880_03_04",
+    "publication_name": "LP",
+    "publication_edition": "U",
+    "news_section": "T",
     "dia": "3",
     "fecha_entrada": "1880_03_03",
     "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 7 de Enero polaca española Merceditas, 124 tons cap P Duran á la órden con: 213 pipas, 2512 9814 vino tinto.",
