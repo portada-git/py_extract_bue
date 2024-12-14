@@ -9,6 +9,7 @@
     "dia": "3",
     "fecha_entrada": "1880_03_03",
     "entrada": "Fecha de arribo: 3 de marzo de 1880 | Uruguay vapor oriental Rio de la Plata, 200 tons cap Silveira á ED Risso con; 49 pasageros y de transito para Montevideo, 112 bts mercancias.",
+    "id_entrada": 1,
     "data": {
       "travel_departure_date": null,
       "travel_arrival_date": "1880-03-03",
@@ -27,7 +28,7 @@
       "master_name": "Silveira",
       "ship_agent_name": null,
       "crew_number": null,
-      "cargo_broker_name": "ED Risso",
+      "broker_name": "ED Risso",
       "cargo_list": [
         {
           "cargo_merchant_name": "ED Risso",
@@ -59,6 +60,7 @@
     "dia": "3",
     "fecha_entrada": "1880_03_03",
     "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 29 de Diciembre bergantin español Jóven Ana 314 tons cap S Curell á E Ochoa G con: al mismo 540 pipas, 60112 12014 vino tinto, 4014 vino blanco.",
+    "id_entrada": 2,
     "data": {
       "travel_departure_date": "1879-12-29",
       "travel_arrival_date": "1880-03-03",
@@ -77,7 +79,7 @@
       "master_name": "S Curell",
       "ship_agent_name": null,
       "crew_number": null,
-      "cargo_broker_name": "E Ochoa G",
+      "broker_name": "E Ochoa G",
       "cargo_list": [
         {
           "cargo_merchant_name": "al mismo",
@@ -86,8 +88,8 @@
               "cargo_quantity": [
                 540
               ],
-              "cargo_unit": "pipas",
-              "cargo_commodity": null
+              "cargo_unit": "pip",
+              "cargo_commodity": "pipas"
             },
             {
               "cargo_quantity": [
@@ -124,6 +126,7 @@
     "dia": "3",
     "fecha_entrada": "1880_03_03",
     "entrada": "Fecha de arribo: 3 de marzo de 1880 | Barcelona el 7 de Enero polaca española Merceditas, 124 tons cap P Duran á la órden con: 213 pipas, 2512 9814 vino tinto.",
+    "id_entrada": 3,
     "data": {
       "travel_departure_date": "1880-01-07",
       "travel_arrival_date": "1880-03-03",
@@ -142,7 +145,7 @@
       "master_name": "P Duran",
       "ship_agent_name": null,
       "crew_number": null,
-      "cargo_broker_name": "la órden",
+      "broker_name": "la órden",
       "cargo_list": [
         {
           "cargo_merchant_name": "la órden",
