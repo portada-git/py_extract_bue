@@ -1,6 +1,6 @@
 from openai import OpenAI
 import json
-from typing import Dict, Any, Optional, List
+from typing import Dict, Any, Optional, List, Union
 from datetime import datetime, timedelta
 from babel.dates import format_date
 
@@ -8,6 +8,7 @@ class InfoExtractor:
     def __init__(self):
         self._client = None
         self._model = None
+        self._fallback_model = "gpt-4o"
         self._json_schema = None
         self._model_config = {}
         self._field_definitions = {}
@@ -65,23 +66,91 @@ class InfoExtractor:
             {"role": "user", "content": user_message}
         ]
 
-    def extraer_informacion(self, texto: str) -> Optional[Dict[str, Any]]:
+    def extraer_informacion(self, texto: str) -> Union[Dict[str, Any], str, None]:
         if not all([self._client, self._model, self._json_schema]):
             raise ValueError("La configuración del extractor está incompleta.")
 
-        try:
-            respuesta = self._client.chat.completions.create(
-                model=self._model,
-                messages=self._create_messages(texto),
-                response_format={"type": "json_object"},
-                **self._model_config
-            )
-            
-            return json.loads(respuesta.choices[0].message.content)
-            
-        except Exception as e:
-            print(f"Error al procesar la nota: {str(e)}")
-            return None
+        models_to_try = [self._model, self._fallback_model]
+        last_raw_content = None
+
+        for model in models_to_try:
+            try:
+                respuesta = self._client.chat.completions.create(
+                    model=model,
+                    messages=self._create_messages(texto),
+                    response_format={"type": "json_object"},
+                    **self._model_config
+                )
+
+                contenido_respuesta = respuesta.choices[0].message.content
+                last_raw_content = contenido_respuesta
+
+                try:
+                    return json.loads(contenido_respuesta)
+                except json.JSONDecodeError:
+                    print(f"No se pudo decodificar la respuesta como JSON usando el modelo {model}.")
+                    if model == self._fallback_model:
+                        print("Fallaron todos los intentos de extracción JSON. Devolviendo el contenido crudo.")
+                        return contenido_respuesta
+                    else:
+                        print(f"Intentando con el modelo de respaldo: {self._fallback_model}")
+
+            except Exception as e:
+                print(f"Error al procesar la entrada con el modelo {model}: {str(e)}")
+                if model == self._fallback_model:
+                    print("Fallaron todos los intentos de extracción.")
+                    if last_raw_content:
+                        print("Devolviendo el último contenido crudo obtenido.")
+                        return last_raw_content
+                    else:
+                        print("No se pudo obtener ningún contenido. Devolviendo None.")
+                        return None
+                else:
+                    print(f"Intentando con el modelo de respaldo: {self._fallback_model}")
+
+        return None  # Este return solo se alcanzará si hay un error inesperado en la lógica del bucle
+
+    # def extraer_informacion(self, texto: str) -> Union[Dict[str, Any], str, None]:
+    #     if not all([self._client, self._model, self._json_schema]):
+    #         raise ValueError("La configuración del extractor está incompleta.")
+    # 
+    #     try:
+    #         respuesta = self._client.chat.completions.create(
+    #             model=self._model,
+    #             messages=self._create_messages(texto),
+    #             response_format={"type": "json_object"},
+    #             **self._model_config
+    #         )
+    # 
+    #         contenido_respuesta = respuesta.choices[0].message.content
+    # 
+    #         try:
+    #             return json.loads(contenido_respuesta)
+    #         except json.JSONDecodeError:
+    #             print("No se pudo decodificar la respuesta como JSON. Devolviendo el contenido crudo.")
+    #             return contenido_respuesta
+    # 
+    #     except Exception as e:
+    #         print(f"Error al procesar la entrada: {str(e)}")
+    #         return None
+
+    # def extraer_informacion(self, texto: str) -> Optional[Dict[str, Any]]:
+    #     if not all([self._client, self._model, self._json_schema]):
+    #         raise ValueError("La configuración del extractor está incompleta.")
+    # 
+    #     try:
+    #         respuesta = self._client.chat.completions.create(
+    #             model=self._model,
+    #             messages=self._create_messages(texto),
+    #             response_format={"type": "json_object"},
+    #             **self._model_config
+    #         )
+    # 
+    #         return json.loads(respuesta.choices[0].message.content)
+    # 
+    #     except Exception as e:
+    #         print(f"Error al procesar la entrada: {str(e)}")
+    #         return None
 
 class InfoExtractorBuilder:
     def __init__(self):
@@ -139,4 +208,3 @@ def formato_fecha_espanol(fecha: Optional[datetime]) -> str:
     if fecha:
         return format_date(fecha, format='d \'de\' MMMM \'de\' yyyy', locale='es')
     return "Fecha desconocida"
-
