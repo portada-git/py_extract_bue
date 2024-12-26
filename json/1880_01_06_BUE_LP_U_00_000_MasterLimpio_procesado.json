@@ -1,14 +1,14 @@
 [
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Londres Amberes Rio Janeiro y Montevido vapor inglés Horrox 1101 tons cap Eddes á E, Norton con: á Bemberg C. 5 fds bsas 1 bto mtras; J Fulton 15 cj 5 casc provisiones; Parry 115 cj merc. J. Etchegaray 10 fds medias; Tramway Ciudad de Buenos Aires 25 casc herraduras; H. Peltzer 10 cj drogas; Puerto Ensenada 24 btos acero; Ferro C, del Sud 6 cj cristaleria; Moore C. 12 cj perfumeria, Hape hnos 6 fds bolsas; Orden 230 cj hojalata 331 bto merc 51 cj id 9 id papel.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Londres Amberes Rio Janeiro y Montevido vapor inglés Horrox 1101 tons cap Eddes á E, Norton con: á Bemberg C. 5 fds bsas 1 bto mtras; J Fulton 15 cj 5 casc provisiones; Parry 115 cj merc. J. Etchegaray 10 fds medias; Tramway Ciudad de Buenos Aires 25 casc herraduras; H. Peltzer 10 cj drogas; Puerto Ensenada 24 btos acero; Ferro C, del Sud 6 cj cristaleria; Moore C. 12 cj perfumeria, Hape hnos 6 fds bolsas; Orden 230 cj hojalata 331 bto merc 51 cj id 9 id papel.",
     "id_entrada": 1,
     "data": {
       "travel_departure_date": null,
@@ -217,14 +217,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Amberes à M. del Pont 51 cj velas; W. Paats 200 cj quesos; F F. 200 cj ginebra; F. Meyer 2 casc vino; H. Koch 58 cj manufacturas; Bemberg C. 36 fds papel; C. Riva 20 btos quesos; J, Lopez 1 cj armas; Verney C, 23 id id, A, Bunge 1 id vino; L, Logegaray 26 id 6 barriles ferreteria; Mallman C. 8 fds lana 1 bto mtras: F. Chás é hijos 61 id cristaleria C. F. Bally 30 id calzado; J. Cadmus 2 cj con: 100,000 francos 15 btos papel 917 rieles 679 btos fierro.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Amberes à M. del Pont 51 cj velas; W. Paats 200 cj quesos; F F. 200 cj ginebra; F. Meyer 2 casc vino; H. Koch 58 cj manufacturas; Bemberg C. 36 fds papel; C. Riva 20 btos quesos; J, Lopez 1 cj armas; Verney C, 23 id id, A, Bunge 1 id vino; L, Logegaray 26 id 6 barriles ferreteria; Mallman C. 8 fds lana 1 bto mtras: F. Chás é hijos 61 id cristaleria C. F. Bally 30 id calzado; J. Cadmus 2 cj con: 100,000 francos 15 btos papel 917 rieles 679 btos fierro.",
     "id_entrada": 2,
     "data": {
       "travel_departure_date": null,
@@ -471,14 +471,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Barcelona el 30 de Octubre bergantin español Almirante 170 tons cap J. Senna á R. Rigal con: 290 pipas 4412 2412 vino tinto (Gaset) 5014 vino málaga (Marcó) 484 vino málaga 25 cj aguardiente 150 latas pimenton (Deu).",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Barcelona el 30 de Octubre bergantin español Almirante 170 tons cap J. Senna á R. Rigal con: 290 pipas 4412 2412 vino tinto (Gaset) 5014 vino málaga (Marcó) 484 vino málaga 25 cj aguardiente 150 latas pimenton (Deu).",
     "id_entrada": 3,
     "data": {
       "travel_departure_date": "1879-10-30",
@@ -516,21 +516,14 @@
                 2412
               ],
               "cargo_unit": null,
-              "cargo_commodity": "vino tinto"
-            },
-            {
-              "cargo_quantity": [
-                5014
-              ],
-              "cargo_unit": null,
               "cargo_commodity": "vino málaga"
             },
             {
               "cargo_quantity": [
                 484
               ],
-              "cargo_unit": null,
-              "cargo_commodity": "vino málaga"
+              "cargo_unit": "vino málaga",
+              "cargo_commodity": null
             },
             {
               "cargo_quantity": [
@@ -558,14 +551,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Liverpool el 26 de Octubre barca italiana Emmanuele P. 363 tons cap J. Marchese á la compañia Gas con: 586 tons carbon.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Liverpool el 26 de Octubre barca italiana Emmanuele P. 363 tons cap J. Marchese á la compañia Gas con: 586 tons carbon.",
     "id_entrada": 4,
     "data": {
       "travel_departure_date": "1879-10-26",
@@ -609,14 +602,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Paranaguá el 18 de Diciembre berg gol brasilero Josephina 204 tons cap Almeida á A F Ramos con: 1437 tercios 305 bcas con 155,373 kil yerba.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Paranaguá el 18 de Diciembre berg gol brasilero Josephina 204 tons cap Almeida á A F Ramos con: 1437 tercios 305 bcas con 155,373 kil yerba.",
     "id_entrada": 5,
     "data": {
       "travel_departure_date": "1879-12-18",
@@ -653,7 +646,7 @@
                 305
               ],
               "cargo_unit": "bcas",
-              "cargo_commodity": "yerba"
+              "cargo_commodity": "con"
             },
             {
               "cargo_quantity": [
@@ -674,14 +667,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Pernambuco el 23 de Dbre berg gta portugues Gomez de Castro 147 tons cap Goncalvez à J Cibils con: 40 pip caña,50 bcas azúcar moscavada 975 bcas 75114 azúcar blanca.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Pernambuco el 23 de Dbre berg gta portugues Gomez de Castro 147 tons cap Goncalvez à J Cibils con: 40 pip caña,50 bcas azúcar moscavada 975 bcas 75114 azúcar blanca.",
     "id_entrada": 6,
     "data": {
       "travel_departure_date": "1879-12-23",
@@ -731,7 +724,7 @@
         }
       ],
       "passengers": null,
-      "in_ballast": false,
+      "in_ballast": null,
       "quarantine": null,
       "forced_arrival": null,
       "obs": "75114"
@@ -739,14 +732,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Antonina el 13 de Dbre zumaca oriental Celia 96 tons cap S Rey á Barroso C con; á M Miró 268 tercios con 21474 kil yerba; A Lopez 66 tercios con: 5935 kil yerba; Artagaveytia Hons 25 tercios con: 2360 kil yerba; Barroso C 304 surrones 250 cestos con: 34976 kil yerba.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Antonina el 13 de Dbre zumaca oriental Celia 96 tons cap S Rey á Barroso C con; á M Miró 268 tercios con 21474 kil yerba; A Lopez 66 tercios con: 5935 kil yerba; Artagaveytia Hons 25 tercios con: 2360 kil yerba; Barroso C 304 surrones 250 cestos con: 34976 kil yerba.",
     "id_entrada": 7,
     "data": {
       "travel_departure_date": "1879-12-13",
@@ -861,14 +854,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Bruswick el 31 de Octubre barca americanana J. R. Carl. ton 519 tons cap Bulter á C S Bowers con: 16385 piezas con: 368615 pies pino.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Bruswick el 31 de Octubre barca americanana J. R. Carl. ton 519 tons cap Bulter á C S Bowers con: 16385 piezas con: 368615 pies pino.",
     "id_entrada": 8,
     "data": {
       "travel_departure_date": "1879-10-31",
@@ -880,7 +873,7 @@
       "travel_port_of_call_list": [],
       "travel_arrival_port": "Buenos Aires",
       "ship_type": "barca",
-      "ship_name": "J. R. Carl",
+      "ship_name": "J. R. Carl.",
       "ship_tons_capacity": 519,
       "ship_tons_units": "tons",
       "ship_flag": "americanana",
@@ -919,14 +912,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Montevideo vap ingles Saturno 200 tons cap Magnasco á P Risso con: á JA Uribe 4 cj mercs; J Vives 3 cj id, L Fels 1 cj fósforos; G Bueno 1 fd encod; Artagaveytia 1 cj id; E Norton 1 bolsa; id Drabble 1 cj id; A Lopez 1 paq 1924 ps. m/c.; Hardy 1 cj encod; L Posada 1 paq id; Lelser 4 barriles vacios.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Montevideo vap ingles Saturno 200 tons cap Magnasco á P Risso con: á JA Uribe 4 cj mercs; J Vives 3 cj id, L Fels 1 cj fósforos; G Bueno 1 fd encod; Artagaveytia 1 cj id; E Norton 1 bolsa; id Drabble 1 cj id; A Lopez 1 paq 1924 ps. m/c.; Hardy 1 cj encod; L Posada 1 paq id; Lelser 4 barriles vacios.",
     "id_entrada": 9,
     "data": {
       "travel_departure_date": null,
@@ -1016,7 +1009,7 @@
                 1
               ],
               "cargo_unit": "bolsa",
-              "cargo_commodity": "id"
+              "cargo_commodity": null
             }
           ]
         },
@@ -1090,14 +1083,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Glasgow vap ingles Viking 1687 tons cap Popaper á Woodgate Hnos con á J Shaw 2 cj ferreteria; F Chas 53 canastos cristaleria; Gilmour C 4 fds mercs; Snell caueres; 5 fardos tejidos; A Hohmann 19 fen drogas; Blagden H 4 fardos idem; Moore C 100 cajones harina Barclay Campbell 90 cajones 11 fardos tejidos H 200 barriles resina; Shaw hnos 15 tons fierro; J. C. Thompson 75 cjs tejidos; B. Stokes 9 id; órden 1 id, 30 cascos mercs, 104520 btos fierro, 70 cjs mercs.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Glasgow vap ingles Viking 1687 tons cap Popaper á Woodgate Hnos con á J Shaw 2 cj ferreteria; F Chas 53 canastos cristaleria; Gilmour C 4 fds mercs; Snell caueres; 5 fardos tejidos; A Hohmann 19 fen drogas; Blagden H 4 fardos idem; Moore C 100 cajones harina Barclay Campbell 90 cajones 11 fardos tejidos H 200 barriles resina; Shaw hnos 15 tons fierro; J. C. Thompson 75 cjs tejidos; B. Stokes 9 id; órden 1 id, 30 cascos mercs, 104520 btos fierro, 70 cjs mercs.",
     "id_entrada": 10,
     "data": {
       "travel_departure_date": null,
@@ -1164,6 +1157,18 @@
               ],
               "cargo_unit": "id",
               "cargo_commodity": "caueres"
+            }
+          ]
+        },
+        {
+          "cargo_merchant_name": null,
+          "cargo": [
+            {
+              "cargo_quantity": [
+                5
+              ],
+              "cargo_unit": "fardos",
+              "cargo_commodity": "tejidos"
             }
           ]
         },
@@ -1313,14 +1318,14 @@
   },
   {
     "name_txt": "1880_01_06_BUE_LP_U_00_000_MasterLimpio.txt",
-    "metadata_entrada": "MARITIMA-DIA 4 Y 5-",
+    "metadata_entrada": "DIA 4 Y 5",
     "publication_date": "1880_01_06",
     "publication_name": "LP",
     "publication_edition": "U",
     "news_section": "E",
     "dia": "5",
     "fecha_entrada": "1880_01_05",
-    "entrada": "Fecha de arribo: 5 de enero de 1880 | Uruguay, vapor inglés Saturno, 200 tons cap Magnasco á P. Risso con: a C. Clark 1 paq 500 fts; G. J. Dodis 1 cj encoms; T. Grospe 2 id id; Bercetcke 2 btos id; S. J. Mendia 2 id id; J, Buthler 50 barriles vacios; Bieckert 4 id id; E. Casey 1 paq 602 pfs 07; B. Arijon 1 cj ercoms; T. Ambrosetti 1 paq id; Molino de San Francisco 2 btos bolsas; P. Curutché 1 paq 300 pfs; P. Risso 1 id 70 pfs; L. Gattuno 1 id 102 pfs 48; Pedro Althaparro 1 id 213 pfs 30.",
+    "entrada": "Fecha de arribo: 5 de enero de 1880; puerto de salida: Uruguay, vapor inglés Saturno, 200 tons cap Magnasco á P. Risso con: a C. Clark 1 paq 500 fts; G. J. Dodis 1 cj encoms; T. Grospe 2 id id; Bercetcke 2 btos id; S. J. Mendia 2 id id; J, Buthler 50 barriles vacios; Bieckert 4 id id; E. Casey 1 paq 602 pfs 07; B. Arijon 1 cj ercoms; T. Ambrosetti 1 paq id; Molino de San Francisco 2 btos bolsas; P. Curutché 1 paq 300 pfs; P. Risso 1 id 70 pfs; L. Gattuno 1 id 102 pfs 48; Pedro Althaparro 1 id 213 pfs 30.",
     "id_entrada": 11,
     "data": {
       "travel_departure_date": null,
@@ -1410,7 +1415,7 @@
                 50
               ],
               "cargo_unit": "barriles",
-              "cargo_commodity": "vacíos"
+              "cargo_commodity": "vacios"
             }
           ]
         },

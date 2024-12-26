@@ -1,10 +1,10 @@
 import os
 import json
 import re
-from config_lp_prueba import procesar_archivo
+from config_lp_0 import procesar_archivo
 
-directorio_entrada = './txt/master_lp/'
-directorio_salida = './json/json_master/'
+directorio_entrada = './txt/lp/'
+directorio_salida = './json/'
 
 def main():
     try:
